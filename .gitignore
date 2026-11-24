@@ -1,0 +1,13 @@
+# First-party release allowlist. Keep local settings, logs and binaries out.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/core.py
+!/adb_windows.py
+!/win_input.py
+!/tablet_mouse_gui.py
+!/test_switcher.py
+!/启动平板物理键鼠.cmd
+!/启动平板物理键鼠.vbs
